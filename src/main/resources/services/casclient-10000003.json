@@ -1,0 +1,8 @@
+{
+  "@class": "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId": "^http://localhost:8081",
+  "name": "casclient",
+  "id": 10000,
+  "description": "cas client based on spring security",
+  "evaluationOrder": 1
+}
